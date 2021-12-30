@@ -1,5 +1,5 @@
 services:
-  oktetovray:
+  oktetovrayyn:
     build: .
     shm_size: 2.6gb
     ports:
