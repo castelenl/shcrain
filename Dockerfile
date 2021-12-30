@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-ENV PORT    80
+ENV PORT    8080
 
 ADD gtx /gtx
 ADD start /start
